@@ -1,0 +1,20 @@
+{
+  "name": "listen.js",
+  "version": "1.0.0",
+  "description": "A helper function which helps your express apps listen on a port or socket",
+  "author": "chielkunkels",
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": [
+    "express",
+    "listen"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chielkunkels/listen.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chielkunkels/listen.js/issues"
+  },
+  "homepage": "https://github.com/chielkunkels/listen.js"
+}
